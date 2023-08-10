@@ -1,0 +1,54 @@
+/* style.css */
+
+/* Two-column layout */
+@media (min-aspect-ratio: 3/2) {
+    .two-columns {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .two-columns > div {
+        width: 48%;
+    }
+}
+
+/* Single-column layout */
+@media (max-aspect-ratio: 3/2) {
+    .two-columns {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .two-columns > div {
+        width: 100%;
+    }
+}
+
+/* CSS for small screens */
+@media screen and (max-width: 600px) {
+    .Select-control,
+    .Select-option,
+    .Select-menu-outer .Select-option { /* new rule */
+        font-size: 10px;
+    }
+}
+
+/* CSS for medium screens */
+@media screen and (min-width: 601px) and (max-width: 992px) {
+    .Select-control,
+    .Select-option,
+    .Select-menu-outer .Select-option { /* new rule */
+        font-size: 12px;
+    }
+}
+
+/* CSS for large screens */
+@media screen and (min-width: 993px) {
+    .Select-control,
+    .Select-option,
+    .Select-menu-outer .Select-option { /* new rule */
+        font-size: 14px;
+    }
+}
