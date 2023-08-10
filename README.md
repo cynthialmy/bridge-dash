@@ -63,7 +63,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgements
 Special thanks to the team members, contributors, and everyone who helped in making this project a success.
-
----
-
-This README provides a clear overview of the project, its features, and instructions on how to set it up locally. Feel free to modify it to match the specific details and nuances of your project.
