@@ -1,0 +1,7 @@
+data
+venv
+*.pyc
+.DS_Store
+.env
+*.png
+*.html
