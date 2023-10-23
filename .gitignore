@@ -3,7 +3,6 @@ venv
 *.pyc
 .DS_Store
 .env
-*.png
 *.html
 env
 cashe-directory
