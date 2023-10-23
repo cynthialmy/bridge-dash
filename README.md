@@ -52,6 +52,14 @@ Navigate to `http://localhost:8050` in your web browser.
 ## Demo
 The live demo of the application can be found [here](https://bridge-dash-90f35a395f88.herokuapp.com/).
 
+![alt text](assets/dash-1.png)
+
+![alt text](assets/dash-2.png)
+
+![alt text](assets/dash-3.png)
+
+![alt text](assets/dash-4.png)
+
 ## Documentation
 Detailed documentation can be found in the `docs/` directory.
 

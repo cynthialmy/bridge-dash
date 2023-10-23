@@ -5,3 +5,5 @@ venv
 .env
 *.png
 *.html
+env
+cashe-directory
