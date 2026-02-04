@@ -50,7 +50,7 @@ python app.py
 Navigate to `http://localhost:8050` in your web browser.
 
 ## Demo
-The live demo of the application can be found [here](https://bridge-dash-90f35a395f88.herokuapp.com/).
+The live demo of the application can be found [here](http://bridge-dash.streamlit.app/).
 
 ![alt text](assets/dash-1.png)
 
